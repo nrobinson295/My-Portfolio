@@ -1,0 +1,15 @@
+.toolbar {
+  text-align: right;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.toolbar a {
+  padding-right: 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.toolbar a:hover {
+  color: black;
+}

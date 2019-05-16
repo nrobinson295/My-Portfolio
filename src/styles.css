@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  background-image: url('grayscale.jpeg');
+  background-repeat: no-repeat;
+  height: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
